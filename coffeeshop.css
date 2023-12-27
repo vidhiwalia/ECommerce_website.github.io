@@ -1,0 +1,42 @@
+.coffee{
+	color:red;
+}
+.table-styling{
+	width:80%;
+	border:5px solid green;
+	font-family: arial black;
+	text-align: center;
+}
+th{
+	background: pink;
+	height: 50px;
+	color:white;
+	font-size: 22px;
+}
+td{
+	background: pink;
+	height: 50px;
+	color:white;
+	font-size: 21px;
+
+}
+#hello{
+	color:blue;
+	height=40px;
+	width=80px;
+}
+.border{
+	border-top-style:dotted;
+	
+	border-left-style: solid;  
+	border-bottom-style:dotted;
+	font-style:italic;
+	border-color:red;
+	
+	font-size:20px;
+}
+.in-stock:hover {
+	background-color:green;
+
+
+}
